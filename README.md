@@ -7,6 +7,10 @@ Ce microframework rend le minimum typographique nécessaire à l'écriture de do
 
 Tiny Typo ne contient que deux fichiers ! Facile à utiliser, il complète votre réinitialisation habituelle pour servir de base à vos propres styles. Fait de HTML et CSS, il est simple et robuste, très léger (pas d'image, pas de police, pas de JavaScript). Il est personnalisable via LESS.
 
+Page de démonstration : [tinytypo.tetue.net]([http://tinytypo.tetue.net](https://web.archive.org/web/20191025032008/http://tinytypo.tetue.net/tinytypo.html))
+
+Demo : [tinytypo.tetue.net]([http://tinytypo.tetue.net](https://web.archive.org/web/20191025032008/http://tinytypo.tetue.net/tinytypo.html))
+
 ----
 
 Tiny Typo is a CSS base for web editorial content, ready for use, for readable web pages, on all medias.
