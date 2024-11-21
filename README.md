@@ -15,4 +15,4 @@ This microframework makes the typographic minimum necessary for the writing of w
 
 Tiny Typo holds only two files! Easy to use, it complements your usual reset to serve as foundation for your own styles. Made of HTML and CSS, it's simple and robust, very light (no image, no font, no JavaScript). It is customizable via LESS.
 
-Demo : [tinytypo.tetue.net](http://tinytypo.tetue.net)
+Demo : [tinytypo.tetue.net]([http://tinytypo.tetue.net](https://web.archive.org/web/20191025032008/http://tinytypo.tetue.net/tinytypo.html))
